@@ -1,5 +1,8 @@
 _repo: Frank-s-Campaign--Or-The-Farm-and-the-Camp_1573
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alger, Horatio
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1573#Frank-s-Campaign--Or-The-Farm-and-the-Camp
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '1998-12-01'
 gutenberg_type: Text
